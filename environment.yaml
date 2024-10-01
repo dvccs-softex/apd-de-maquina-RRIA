@@ -1,0 +1,11 @@
+name: ml-proj-rria
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - pip
+  - numpy
+  - scikit-learn
+  - seaborn
+  - pandas
+  - matplotlib
